@@ -39,4 +39,8 @@ git status - команда, вызыв. блок. инф по сост. реф
 ## Lesson 2
 git branch - команда которая выводит список веток
 
+git branch name - создание ветки
+
+git branch name - создание ветки
+
 branch -ветка
