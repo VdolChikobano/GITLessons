@@ -44,3 +44,6 @@ git branch name - создание ветки
 git branch name - создание ветки
 
 branch -ветка
+
+1. Список 
+
